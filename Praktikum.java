@@ -4,4 +4,12 @@ public class Praktikum {
 	}
 
 	int a = 10;
+	int b = 1000; 
+
+	void bom() {
+	
+	}
+void bom1() {
+	
+	}
 }
